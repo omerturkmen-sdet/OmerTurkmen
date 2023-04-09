@@ -2,6 +2,8 @@
  
 Hi there, my name is Ömer Türkmen. I am a test automation engineer with a passion for coding. I work with Java to write test automation scripts I and test both the front-end and back-end of applications. I am curious and interested in the development process of these layers. I am currently learning Swift and excited to start developing my own apps on the iOS platform
 
+Any advice on career development is welcome. Also, as a classic movie lover, I am open to quality movie and series recommendations for leisure time.
+
 
 ## Socials
 
